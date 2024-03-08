@@ -3,4 +3,5 @@ numpy
 seaborn
 scikit_learn
 flask
+pickle
 -e .
